@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/dynamicendpoints-api-security-tester-badge.png)](https://mseep.ai/app/dynamicendpoints-api-security-tester)
+
 # API Security Tester MCP Server
 
 [![smithery badge](https://smithery.ai/badge/@DynamicEndpoints/api-security-tester)](https://smithery.ai/server/@DynamicEndpoints/api-security-tester)
